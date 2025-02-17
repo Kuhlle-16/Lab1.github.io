@@ -1,0 +1,1 @@
+I firstly initialized a Git repository. Then I created a branch on my GitHub named feature/student-details. After that I created a new text file on Text Editor named student-info.txt where it has my student number and my name as well. I then wrote an html web page called index.html. 
